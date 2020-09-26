@@ -1,3 +1,3 @@
-module github.com/najibulloShapoatov/bank/v2
+module github.com/nkomiljon/bank/v2
 
 go 1.15
